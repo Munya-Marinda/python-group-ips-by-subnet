@@ -9,6 +9,8 @@ This script reads a list of IP addresses with associated counts, groups them by 
 - Groups IPs by `/24` prefix for IPv4 and `/64` prefix for IPv6.
 - Handles errors in input gracefully by skipping invalid lines.
 
+![Screenshot 2025-01-08 131157](https://github.com/user-attachments/assets/739a6db2-0dbb-4e2c-9247-d419d1b1ecaa)
+
 ## Requirements
 
 - Python 3.x
